@@ -17,6 +17,6 @@
 ## Como usar? —— Dê um click no video abaixo para saber 👇👇
 https://user-images.githubusercontent.com/104876290/169053005-76e5c426-e8ac-4cf7-ba0e-f9e52ce7b30c.mp4
 
-## Testar o campo de cadastro  https://jailsonsilv.github.io/Consumo-API-CEP/
+## Testar o campo de cadastro https://jailsonsilv.github.io/Consumo-API_CEP/
 
 Made by <a href="https://www.linkedin.com/in/jailsondev-front-end/"> Jailson Silva </a> 🎯
